@@ -2,22 +2,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Cactus+Classical+Serif&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cactus+Classical+Serif&display=swap');
 
-
 *{
     padding: 0%;
     margin: 0%;
 }
 
+a:link{
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+a:hover{
+  color: red;
+}
+
+
+
 Header{
   background-color: rgb(25, 20, 42);}
  
 
-
 .Header{
   display: flex;
   justify-content: space-around;
-  
+ 
 }
+
+
  
 .Anillos{
   margin-top: 1px;
@@ -26,30 +37,189 @@ Header{
   justify-items: initial;
 }
 
-nav{
+
+
+
+.Nav a{
+  text-decoration: none;
   color: white;
-  margin-right: 10px;
-  margin-top: 50px;
-  font-size: 40px;
+  padding: 40px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-style: normal;
+  font-size: 35px;
+ }
 
- 
-  
+ Nav{
+   margin-top: 50px;
+ }
+
+
+
+  .Hero{
+    background-color: rgb(25, 20, 42);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
   }
 
-
-
-
-
-
-
-
-
-
-.Nombre{
-font-family: "Cactus Classical Serif", serif;
+.Presentacion{
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  font-family: "Cactus Classical Serif", serif;
   font-weight: 400;
   font-style: normal;
+  color: white;
+  font-size: 40px;
+  
+}
+
+.Texto{
+  color: white;
+  size: 40px;
+  font-size: 35px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 35px;
+  font-style: normal;
+}
+
+img{
+  width: 400px;
+
+}
+
+.Cuadrados{
+  display: flex;
+  justify-content: space-around;
+  font-family: "Roboto", sans-serif;
+  font-weight: 35px;
+  font-style: normal;
+  color: white;
+  background-color: rgb(42, 35, 68);
+}
+
+
+
+.Portafolio{
+  background-color: rgb(25, 20, 42);
+  font-family: "Cactus Classical Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  display: flex;
+  align-items: start;
+  padding: 20px;
+  flex-direction: column;
+}
+
+.Proyectos{
+  display: flex;
+  justify-content: end;
+  transform: translateY(-40px);
+}
+
+
+.Trabajos{
+ background-color: rgb(25, 20, 42);
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes ejemplo{
+  0%{
+      transform: translateX(0);
+  }
+  50%{
+      transform: translateX(100px);
+  }
+  100%{
+      transform: translateX(0);
+  }
 }
