@@ -140,11 +140,41 @@ flex-direction: column;
   width: 350px;
   border-top-right-radius: 45px;
   margin: 50px;
-  
-  font-size: 40px;
+  padding: 15px;
+  font-size: 30px;
   text-align: center;
 }
 
+.Clientes{
+  border: rgb(213, 34, 58) 4px solid;
+  width: 350px;
+  border-top-right-radius:45px;
+  margin: 50px;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+.Exp{
+  border: rgb(213, 34, 58) 4px dashed;
+  width: 350px;
+  border-top-right-radius: 45px;
+  margin: 50px;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.Proyectos{
+  border: rgb(213, 34, 58) 4px dashed;
+  width: 350px;
+  border-top-right-radius: 45px;
+  margin: 50px;
+  padding:0%;
+  font-size: 30px;
+  text-align: center;
+}
 
 /*.Clientes{
   border: rgb(213, 34, 58) 4px solid;
