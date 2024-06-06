@@ -108,11 +108,10 @@ flex-direction: column;
 }
 
 .sigueme hr{
-  width: 100px;
  border-color: rgb(213, 34, 58);
  -webkit-transform:rotate(90deg);
  position:absolute;
-width: 50px;
+ width: 50px;
 
 }
 
@@ -135,12 +134,47 @@ width: 50px;
 
 }
 
+
 .Premio{ 
   border: rgb(213, 34, 58) 4px dashed;
-  padding: 30px;
+  width: 350px;
+  border-top-right-radius: 45px;
+  margin: 50px;
+  
   font-size: 40px;
   text-align: center;
 }
+
+
+/*.Clientes{
+  border: rgb(213, 34, 58) 4px solid;
+  width: 350px;
+  border-top-right-radius: 45px;
+  
+  
+  font-size: 40px;
+  text-align: center;
+}
+.Exp{
+  border: rgb(213, 34, 58) 4px solid;
+  width: 350px;
+  border-top-right-radius: 45px;
+  
+  
+  font-size: 40px;
+  text-align: center;
+}
+
+.Proyectos{
+  border: rgb(213, 34, 58) 4px solid;
+  width: 350px;
+  border-top-right-radius: 45px;
+  margin: 30px ;
+  padding: 20px;
+  font-size: 40px;
+  display: flex;
+  text-align: center;
+}*/
 
 .a{ 
     background-color: rgb(42, 35, 68);
@@ -148,10 +182,11 @@ width: 50px;
 
 .Cuadrados i{
  background-color: rgb(213, 34, 58) ;
-  width: 40px;
-
+  width: 50px;
+  height: 40px;
+  display: flex;
+ justify-content: space-around;
 }
-
 
 
 .Portafolio{
