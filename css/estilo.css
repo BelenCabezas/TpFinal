@@ -84,20 +84,16 @@ margin-top: 80px ;
  }
 
  /*REDES VERTICAL*/
+
+
 .Redes img{
   width: 25px;
   cursor: pointer;
-  
-
+  display: flex;
+  flex-direction: column;
 }
 
-.Redes{
-
-
-}
-
-
-.sigueme{
+/*.sigueme{
 font-size: 50px;
 color:rgb(213, 34, 58);
 display: block;
@@ -106,18 +102,16 @@ padding-bottom: 40px;
 writing-mode: vertical-rl; 
 transform: rotate(1deg);
 display: flex;
-justify-content: right;
 flex-direction: column;
+}*/
 
-}
-
-.sigueme hr{
+/*.sigueme hr{
  border-color: rgb(213, 34, 58);
  -webkit-transform:rotate(90deg);
  position:absolute;
  width: 50px;
 
-}
+}*/
 
 /*CUADRADOS HORIZONTAL*/
 
