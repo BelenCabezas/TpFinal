@@ -136,20 +136,20 @@ flex-direction: column;
 
 
 .Premio{ 
-  border: rgb(213, 34, 58) 4px dashed;
+  border: rgb(213, 34, 58) 3px dashed;
   width: 350px;
   border-top-right-radius: 45px;
-  margin: 50px;
-  padding: 15px;
+  margin: 30px 0px;
+  /*padding: 15px;*/
   font-size: 30px;
   text-align: center;
 }
 
 .Clientes{
-  border: rgb(213, 34, 58) 4px solid;
+  border: rgb(213, 34, 58) 3px solid;
   width: 350px;
   border-top-right-radius:45px;
-  margin: 50px;
+  margin: 30px 0px;
   padding: 10px;
   font-size: 30px;
   text-align: center;
@@ -157,20 +157,20 @@ flex-direction: column;
 
 
 .Exp{
-  border: rgb(213, 34, 58) 4px dashed;
+  border: rgb(213, 34, 58) 3px dashed;
   width: 350px;
   border-top-right-radius: 45px;
-  margin: 50px;
-  padding: 10px;
+  margin: 30px 0px;
+  padding: 20px 0px;
   font-size: 30px;
   text-align: center;
 }
 
 .Proyectos{
-  border: rgb(213, 34, 58) 4px dashed;
+  border: rgb(213, 34, 58) 3px dashed;
   width: 350px;
   border-top-right-radius: 45px;
-  margin: 50px;
+  margin: 30px 0px;
   padding:0%;
   font-size: 30px;
   text-align: center;
