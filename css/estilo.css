@@ -35,6 +35,7 @@ Header{
   font-style: normal;
   font-size: 30px;
   transition: background;
+  cursor: pointer;
  }
 
  .Nav a:hover{
@@ -85,7 +86,7 @@ margin-top: 80px ;
  /*REDES VERTICAL*/
 .Redes img{
   width: 25px;
-  
+  cursor: pointer;
   
 
 }
@@ -197,13 +198,25 @@ display: flex;
   color: white;
 }
 
+.Proyectos2{
+  background-color: rgb(29, 24, 47);
+  padding: 20px 0px;
+  border-radius: 5px;
+}
+
 .Proyectos2 a{
   font-size: 20px;
   text-decoration: none;
   color: white;
-
+  padding: 20px;
+  transition: background;
 }
 
+ .Proyectos2 a:hover{
+  background: rgb(214, 34, 59);
+  border-radius: 5px;
+  
+ }
 
 /*IMG PORTAFOLIO*/
 
