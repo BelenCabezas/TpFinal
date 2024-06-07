@@ -6,7 +6,7 @@
     padding: 0%;
     margin: 0%;
 }
-
+/*HEADER*/
 Header{
   background-color: rgb(25, 20, 42);}
  
@@ -46,6 +46,8 @@ Header{
    margin-top: 60px;
  }
 
+ /*HERO*/
+
   .Hero{
     background-color: rgb(25, 20, 42);
     display: flex;
@@ -80,6 +82,7 @@ Header{
 margin-top: 80px ;
  }
 
+ /*REDES VERTICAL*/
 .Redes img{
   width: 25px;
   
@@ -115,14 +118,7 @@ flex-direction: column;
 
 }
 
-/*.Texto{
-  color: white;
-  size: 40px;
-  font-size: 35px;
-  font-family: "Roboto", sans-serif;
-  font-weight: 35px;
-  font-style: normal;
-}*/
+/*CUADRADOS HORIZONTAL*/
 
 .Cuadrados{
   display: flex;
@@ -189,35 +185,36 @@ flex-direction: column;
  justify-content: space-between;
 }
 
-
-.Portafolio{
+/*PORTAFOLIO*/
+.Portafolio-Proyecto{
+display: flex;
+  justify-content: space-around;
   background-color: rgb(25, 20, 42);
+  padding: 40px;
   font-family: "Cactus Classical Serif", serif;
   font-weight: 400;
   font-style: normal;
   color: white;
-  border-radius: 5px;
+}
+
+.Proyectos2 a{
+  font-size: 20px;
   text-decoration: none;
-  display: flex;
-  align-items: start;
-  padding: 20px;
-  flex-direction: column;
+  color: white;
+
 }
 
-.Proyectos2{
-  display: flex;
-  justify-content: end;
-  transform: translateY(-40px);
-}
 
+/*IMG PORTAFOLIO*/
 
 .Trabajos{
  background-color: rgb(25, 20, 42);
  
 }
 
-
-
+.Trabajos img{
+  width: 450px;
+}
 
 
 
