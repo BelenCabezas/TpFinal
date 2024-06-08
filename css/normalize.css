@@ -39,6 +39,7 @@
   
   h1 {
     font-size: 2em;
+    /*PROBLEMA CON ESTE MARGIN*/
        /* margin: 0.67em 0;*/
   }
   
