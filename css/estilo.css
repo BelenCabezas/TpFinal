@@ -271,7 +271,6 @@ display: flex;
 }
 
 .Experiencia{
-  
   text-align: center;
   font-family: "Cactus Classical Serif", serif;
   font-style: normal;
@@ -289,10 +288,25 @@ display: flex;
   font-weight: lighter;
 }
 
+.LineaA{
+  border-left: solid 3px rgb(213, 34, 58);
+  padding-left: 30px;
+}
 
 
 
+.LineaB{
+  border-left: solid 3px rgb(213, 34, 58);
+  padding-left: 30px;
+}
 
+.LineaA h2{
+  background-color: rgb(213, 34, 58);
+  margin-top: 20px;
+
+}
+
+/*SIN TERMINAR*/
 
 
 
