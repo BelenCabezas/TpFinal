@@ -17,3 +17,7 @@ Se realizó utilizando HTML y CSS.Además se utilizó iconos de boostrap y de ic
 - HTML
 - CSS
 - Bootstrap Icons
+
+/*Comentario sobre el trabajo:
+Dentro del codigo en la parte del hero adapte una imagen y la palabra en vertical ya que me dio problemas el hr con el texto.Tambien probe hacerlo con img y el texto invertido y no pude solucionarlo.
+La imagen tiene diseños que eran imagenes independientes que no las pude replicar dento del Di Hola y al rededor del body*/
