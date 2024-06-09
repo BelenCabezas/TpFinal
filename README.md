@@ -1,16 +1,16 @@
 
-Este repositorio contiene el codigo fuente de un proyecto de portafolio inspirado en: https://www.behance.net/gallery/139668309/Portfolio-Website-Design
+Este repositorio contiene el código fuente de un proyecto de portafolio inspirado en: https://www.behance.net/gallery/139668309/Portfolio-Website-Design
 
-Se realizo utilizando HTML y CSS.Ademas se utilizo iconos de boostrap y de icon8.
+
+Se realizó utilizando HTML y CSS.Además se utilizó iconos de boostrap y de icon8.
+
 ## Características
-
-- Tarjeta con diseño atractivo.
-- Dark Mode para una experiencia visual diferente.
-- Uso de iconos de Bootstrap para mejorar la interfaz.
+- Portfolio interactivo.
+- Informacion personal.
+- Uso de tecnologias aprendidas para lograr tener la mayor similitud.
 
 
 ## Instrucciones de Uso
-
 1 - Abre `index.html` en tu navegador.
 
 ## Tecnologías Utilizadas
