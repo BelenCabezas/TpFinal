@@ -396,8 +396,12 @@ flex-direction: column;
   justify-content: space-around;
 }
 
+.Contactame{
+  padding-left: 10px;
+}
+
 .Contactame h1{
-  font-size: 60px;
+  font-size: 40px;
   font-weight: lighter;
   font-family: "DM Serif Display", serif;
   font-style: normal;
@@ -405,7 +409,7 @@ flex-direction: column;
 
 
 .Contactame h2{
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 10px;
   padding-top: 20px;
 
@@ -413,29 +417,36 @@ flex-direction: column;
 
 .Contactame h3{
   color: gray;
-  font-size: 30px;
-  padding: 10px 0px;
+  font-size: 20px;
+  
 }
 
 .Contactame p{
-  font-size: 30px;
-  padding: 10px 0px;
+  font-size: 25px;
+  
 }
 
 .Contactame img{
   position: relative;
-  top: 93px;
-  right:82px;
-  width: 30px;
+  top: 53px;
+  right:56px;
+  width: 24px;
   background-color: rgb(213, 34, 58);
-  border-radius: 23px;
-  padding: 10px;
+  border-radius: 18px;
+  padding: 8px;
 }
-
 
 .Formulario{
   display: flex;
   flex-direction: column;
+}
+
+.Formulario h1{
+  font-size: 40px;
+  font-weight: lighter;
+  font-family: "DM Serif Display", serif;
+  font-style: normal;
+  padding-bottom: 20px
 }
 
 /*DI HOLA*/
@@ -445,7 +456,50 @@ flex-direction: column;
   text-align: center;
 }
 
+.NombreEmail input{
+  background-color: rgb(25, 20, 42);
+  color: gray;
+  border:solid gray 1px;
+  width: 200px;
+  height: 40px;
+  border-radius: 5px;
+  margin:10px 10px;
+  
+}
 
+.NumeroPresupuesto input{
+  background-color: rgb(25, 20, 42);
+  color: gray;
+  border:solid gray 1px;
+  width: 200px;
+  height: 40px;
+  border-radius: 5px;
+  margin:10px 10px;
+}
+
+.Mensaje{
+  background-color: rgb(25, 20, 42);
+  color: gray;
+  border:solid gray 1px;
+  width: 437px;
+  height: 107px;
+  border-radius: 5px;
+  position: relative;
+  left: 7px;
+  
+}
+
+.Boton button{
+  display: flex;
+  justify-content: start;
+  margin-top: 40px;
+  background-color: rgb(213, 34, 58);
+  color: white;
+  border-radius: 5px;
+  padding: 20px 50px;
+  border: none;
+
+}
 .Di-hola h1{
   font-size: 60px;
    font-style: normal;
