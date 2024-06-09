@@ -388,7 +388,7 @@ flex-direction: column;
 .Form{
   background-color: rgb(25, 20, 42);
   color: white;
-  
+  padding-top: 80px;
 }
 
 .Completo{
@@ -403,27 +403,39 @@ flex-direction: column;
   font-style: normal;
 }
 
+
 .Contactame h2{
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 10px;
+  padding-top: 20px;
+
 }
 
 .Contactame h3{
   color: gray;
-  font-size: 10px;
+  font-size: 30px;
+  padding: 10px 0px;
 }
 
+.Contactame p{
+  font-size: 30px;
+  padding: 10px 0px;
+}
 
-.Completo i{
+.Contactame img{
+  position: relative;
+  top: 93px;
+  right:82px;
+  width: 30px;
   background-color: rgb(213, 34, 58);
-  border-radius: 5px;
-  
+  border-radius: 23px;
+  padding: 10px;
 }
+
 
 .Formulario{
   display: flex;
   flex-direction: column;
-
 }
 
 /*DI HOLA*/
