@@ -439,6 +439,7 @@ flex-direction: column;
 .Formulario{
   display: flex;
   flex-direction: column;
+  margin-bottom: 80px;
 }
 
 .Formulario h1{
@@ -447,13 +448,6 @@ flex-direction: column;
   font-family: "DM Serif Display", serif;
   font-style: normal;
   padding-bottom: 20px
-}
-
-/*DI HOLA*/
- 
-.Di-hola{
-  background-color: rgb(42, 35, 68);
-  text-align: center;
 }
 
 .NombreEmail input{
@@ -500,6 +494,15 @@ flex-direction: column;
   border: none;
 
 }
+/*DI HOLA*/
+ 
+.Di-hola{
+  background-color: rgb(42, 35, 68);
+  text-align: center;
+}
+
+
+
 .Di-hola h1{
   font-size: 60px;
    font-style: normal;
