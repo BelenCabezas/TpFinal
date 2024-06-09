@@ -423,7 +423,6 @@ flex-direction: column;
 .Formulario{
   display: flex;
   flex-direction: column;
-  
 
 }
 
@@ -466,10 +465,15 @@ footer hr{
   color: gray;
 }
 .Copy{
+  font-size: 20px;
   color: white;
-  text-align: center;
-  margin-top: 40px;
+  
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: flex;
+  justify-content: center;
 }
+
 
 
 
