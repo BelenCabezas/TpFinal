@@ -162,9 +162,14 @@ flex-direction: column;
   width: 350px;
   border-top-right-radius: 45px;
   margin: 30px 0px;
-  /*padding: 15px;*/
   font-size: 30px;
   text-align: center;
+}
+
+.Premio i{
+  position: relative;
+  top: -23px;
+  left: 45px;
 }
 
 .Clientes{
@@ -177,6 +182,11 @@ flex-direction: column;
   text-align: center;
 }
 
+.Clientes i{
+  position: relative;
+  top: -34px;
+  left: 45px;
+}
 
 .Exp{
   border: rgb(213, 34, 58) 3px dashed;
@@ -186,6 +196,12 @@ flex-direction: column;
   padding: 20px 0px;
   font-size: 30px;
   text-align: center;
+}
+
+.Exp i{
+  position: relative;
+  top: -44px;
+  left: 45px;
 }
 
 .Proyectos{
@@ -198,27 +214,33 @@ flex-direction: column;
   text-align: center;
 }
 
+.Proyectos i{
+  position: relative;
+  top: -22px;
+  left: 45px;
+}
+
 
 .a{ 
-    background-color: rgb(42, 35, 68);
+  background-color: rgb(42, 35, 68);
 }
 
 .Cuadrados i{
  background-color: rgb(213, 34, 58) ;
-  width: 50px;
-  height: 40px;
+  width: 30px;
+  padding: 10px;
   display: flex;
  justify-content: space-between;
+ 
 }
 
 /*PORTAFOLIO*/
 .Portafolio-Proyecto{
-display: flex;
+  display: flex;
   justify-content: space-around;
   background-color: rgb(25, 20, 42);
   padding: 40px;
   font-family: "Cactus Classical Serif", serif;
-  /*font-weight: 400;*/
   font-style: normal;
   color: white;
 }
@@ -234,7 +256,6 @@ display: flex;
   background-color: rgb(29, 24, 47);
   padding: 50px 0px;
   border-radius: 5px;
-  
 }
 
 .Proyectos2 a{
