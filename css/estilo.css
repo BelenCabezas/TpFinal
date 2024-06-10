@@ -55,10 +55,15 @@ Header{
     display: flex;
     justify-content: space-around;
     align-items: center;
-
+    height: 80vh;
+    padding: 150px 0px;
   }
     
-    
+  .ImagenPresentacion{
+      width: 855px;
+      position: relative;
+      top: -35px;
+  }
 .Presentacion{
   display: flex;
   flex-direction: column;
@@ -91,7 +96,7 @@ Header{
 
 .Presentacion p{
   font-size: 30px;
-margin-top: 30px ;
+  margin-top: 30px ;
  }
 
  /*REDES VERTICAL*/
