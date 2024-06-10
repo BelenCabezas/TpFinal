@@ -20,12 +20,9 @@ Header{
   width: 170px;
   display: flex;
   justify-items: initial;
+  position: relative;
+  left: -50px;
 }
-
-.Anillos img{
- color: white;
-}
-
 
 .Nav a{
   text-decoration: none;
