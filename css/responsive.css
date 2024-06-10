@@ -1,12 +1,15 @@
 /*laptop,pc escritorio,2k*/
-@media (max-width: 1920x){
+@media (max-width: 1920px){
+
     
  }
- /*tablets,notebok,netbook*/
- @media (max-width: 1440px){}
+ /*laptos,monitores,2k*/
+ @media (max-width: 1440px){
+
+ }
  
- /**/
- @media (max-width: 1024x){
+ /*tablets,notebook,netbook*/
+ @media (max-width: 1024px){
       }
  
  /*celulares grandes y dispositivos pequeños*/
