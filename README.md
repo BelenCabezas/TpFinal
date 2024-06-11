@@ -1,5 +1,5 @@
 
-Este repositorio contiene el código fuente de un proyecto de portafolio inspirado en: https://www.behance.net/gallery/139668309/Portfolio-Website-Design
+Este repositorio contiene el código fuente de un proyecto de portafolio inspirado en: 🔗 <a href="https://www.behance.net/gallery/139668309/Portfolio-Website-Design)">Link de inspiracion</a> 
 
 
 Se realizó utilizando HTML y CSS.Además se utilizó iconos de boostrap y de icon8.
