@@ -5,18 +5,18 @@ Este repositorio contiene el código fuente de un proyecto de portafolio inspira
 Se realizó utilizando HTML y CSS.Además se utilizó iconos de boostrap y de icon8.
 
 ## Características
-- Portfolio interactivo.
-- Informacion personal.
-- Uso de tecnologias aprendidas para lograr tener la mayor similitud.
+⚪ Portfolio interactivo.
+⚪ Informacion personal.
+⚪ Uso de tecnologias aprendidas para lograr tener la mayor similitud.
 
 
 ## Instrucciones de Uso
-1 - Abre el siguiente link en tu navegador: 🔗 <a href="https://belencabezas.github.io/TpFinal/">Portfolio</a>  
+⚪ Abre el siguiente link en tu navegador: 🔗 <a href="https://belencabezas.github.io/TpFinal/">Portfolio</a>  
 
 ## Tecnologías Utilizadas
-- HTML
-- CSS
-- Bootstrap Icons
+⚪ HTML
+⚪ CSS
+⚪ Bootstrap Icons
 
 /*Comentario sobre el trabajo:
 Dentro del codigo en la parte del hero adapte una imagen y la palabra en vertical ya que me dio problemas el hr con el texto.Tambien probe hacerlo con img y el texto invertido y no pude solucionarlo.
