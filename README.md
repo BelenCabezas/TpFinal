@@ -6,7 +6,9 @@ Se realizó utilizando HTML y CSS.Además se utilizó iconos de boostrap y de ic
 
 ## Características
 ⚪ Portfolio interactivo.
+
 ⚪ Informacion personal.
+
 ⚪ Uso de tecnologias aprendidas para lograr tener la mayor similitud.
 
 
@@ -15,7 +17,9 @@ Se realizó utilizando HTML y CSS.Además se utilizó iconos de boostrap y de ic
 
 ## Tecnologías Utilizadas
 ⚪ HTML
+
 ⚪ CSS
+
 ⚪ Bootstrap Icons
 
 /*Comentario sobre el trabajo:
